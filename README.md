@@ -1,3 +1,7 @@
+[![Python 3.7+](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![GitHub Stars](https://img.shields.io/github/stars/tugcesi/Salary_Prediction?style=social)](https://github.com/tugcesi/Salary_Prediction)
+
 # Salary_Prediction
 Salary Prediction with Machine Learning
 # Salary Prediction with Machine Learning
